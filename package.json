@@ -22,5 +22,8 @@
 	"homepage": "https://github.com/Rolo2121/deep-thoughts#readme",
 	"devDependencies": {
 		"concurrently": "^7.3.0"
+	},
+	"dependencies": {
+		"webpack-dev-middleware": "^5.3.3"
 	}
 }
